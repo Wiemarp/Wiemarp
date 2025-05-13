@@ -1,4 +1,6 @@
-### Hello! I'm an aspiring developer, named Wiemar!
-- 🔭 I’m going to be volunteering my time by working on an app for registering important statistics for flora and fauna with Qxote.
-- 🌱 I’m currently learning Asp.NET and Angular
+# Hi I'm Wiemar!
+
+- 🚀 Learning to develop Angular apps with Nx
+- 🔌 Integrating AI in Nx generators while doing so
+- 🌱 Still learning new things in .NET Core everyday!
 
